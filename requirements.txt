@@ -1,5 +1,5 @@
 The following are the python libraries that I used in this project:
 
-1.Numpy library
+Numpy  
 
-2.csv library
+csv 
